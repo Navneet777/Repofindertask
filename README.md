@@ -6,7 +6,7 @@ Installation Process
 
 Clone Repository in Local.
 
-Run pip install .eck 
+Run pip install .
 
 Command :- repofinder .
 Run repofinder . command in any directory in your local system this librery will identifiy all file inside directory and check file programming launguage and return file structure and summary.
